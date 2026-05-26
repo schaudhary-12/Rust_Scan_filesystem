@@ -41,3 +41,4 @@ cargo tauri dev
 # Build for production
 cargo tauri build
 ```
+
